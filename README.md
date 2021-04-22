@@ -1,2 +1,6 @@
-# technical-interview-question
-모두가 기술 면접에 합격하는 그날까지
+## 모두가 기술 면접에 합격하는 그날까지
+
+### 프로그래밍 언어
+
+### 디자인 패턴
+[JVM의 동작 과정에 대해서 설명해주세요.](https://velog.io/@dhwlddjgmanf/JVM-그래서-넌-뭐야, "JVM, 그래서 넌 뭐야")
