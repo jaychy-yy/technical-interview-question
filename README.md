@@ -5,3 +5,4 @@
 
 ### 디자인 패턴
 [점층적 생성자 패턴(Telescoping Constructor Pattern)에 대해서 설명해주세요.](https://velog.io/@dhwlddjgmanf/Telescoping-Constructor-Pattern이-뭐야 "Telescoping Constructor Pattern이 뭐야")
+[자바빈즈 패턴(JavaBeans Pattern)에 대해서 설명해주세요.](https://velog.io/@dhwlddjgmanf/JavaBeans-Pattern%EC%9D%B4-%EB%AD%90%EC%95%BC-lq9cyh9a "JavaBeans Pattern이 뭐야")
