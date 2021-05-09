@@ -13,3 +13,4 @@
 [스택에 대해 설명해주세요. 또 언제 사용하나요?](https://velog.io/@dhwlddjgmanf/스택 "스택이 뭡니까")  
 [큐를 배열로 구현하면 무슨 문제가 발생하나요?](https://velog.io/@dhwlddjgmanf/큐 "큐가 뭡니까")  
 [이분 탐색에 대해 설명해주세요. 원하는 데이터를 10만건의 데이터 중에서 몇 번만에 찾을 수 있을까요?](https://velog.io/@dhwlddjgmanf/이분-탐색 "이분 탐색이 뭡니까")  
+ 
